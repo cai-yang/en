@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Hot Topics
   url: "/getting-started/"
   side: left
 
@@ -16,10 +16,10 @@
     url: "/design/typography/typography/"
   - title: "Page/Post"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
+  - title: "Post-left-Sidebar"
     url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
+  - title: "Post-left-Sidebar"
+    url: "/design/post-left-sidebar/"
   - title: "Page Full-Width"
     url: "/design/page-fullwidth/"
   - title: "Blog-Page"
